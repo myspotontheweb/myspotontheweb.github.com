@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[myspotontheweb]]></title>
+  <link href="http://myspotontheweb.github.com/atom.xml" rel="self"/>
+  <link href="http://myspotontheweb.github.com/"/>
+  <updated>2013-01-28T02:36:30+00:00</updated>
+  <id>http://myspotontheweb.github.com/</id>
+  <author>
+    <name><![CDATA[Mark O'Connor]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
