@@ -1,4 +1,0 @@
-User-agent: *
-Disallow: 
-
-Sitemap: http://myspotontheweb.github.com/sitemap.xml 
